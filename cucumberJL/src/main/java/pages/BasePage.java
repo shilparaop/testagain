@@ -1,5 +1,10 @@
 package pages;
 
-public class BasePage {
+public class BasePage 
+{
 
+	public static void acvg()
+	{
+		
+	}
 }
